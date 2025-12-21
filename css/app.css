@@ -3,6 +3,11 @@ body {
   margin: 3rem;
 }
 
+img {
+  max-width: 90%;
+  height: auto;
+}
+
 .header-nav {
   text-align: center;
   margin-bottom: 3rem;
